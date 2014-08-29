@@ -1,0 +1,1863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"page"
+			],
+			[
+				"scri",
+				"scriptTag"
+			],
+			[
+				"lo",
+				"loadFeed"
+			],
+			[
+				"fe",
+				"feedPages"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"Fe",
+				"feedPages"
+			],
+			[
+				"fed",
+				"feedPages"
+			],
+			[
+				"not",
+				"not_authorized"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"get_",
+				"get_current_company"
+			],
+			[
+				"form",
+				"form_company"
+			],
+			[
+				"tab",
+				"tab-pane"
+			],
+			[
+				"lis",
+				"list-search"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"chosen",
+				"chosen-container"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"blc",
+				"block"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"row",
+				"rowspan"
+			],
+			[
+				"col",
+				"column_name"
+			],
+			[
+				"stat",
+				"status-doc"
+			],
+			[
+				"se",
+				"seedadmon"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"view",
+				"view_company"
+			],
+			[
+				"Fi",
+				"FILES"
+			],
+			[
+				"log",
+				"logo"
+			],
+			[
+				"compa",
+				"company_id"
+			],
+			[
+				"vie",
+				"view_company"
+			],
+			[
+				"com",
+				"company_logo"
+			],
+			[
+				"is",
+				"is_ajax"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"jso",
+				"json_dumps"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"fie",
+				"field"
+			],
+			[
+				"H",
+				"Http404"
+			],
+			[
+				"gc",
+				"gc"
+			],
+			[
+				"fi",
+				"fid"
+			],
+			[
+				"view_",
+				"view_warehouse"
+			],
+			[
+				"fom",
+				"form_profile"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"ch",
+				"change"
+			],
+			[
+				"_su",
+				"_successAjax"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"seed",
+				"seedadmon"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"res",
+				"reset"
+			],
+			[
+				"save",
+				"saveForm"
+			],
+			[
+				"arra",
+				"serializeArray"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"_se",
+				"_seedadmon"
+			],
+			[
+				"see",
+				"seedadmonPrivate"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"vi",
+				"view_current"
+			],
+			[
+				"cha",
+				"chain"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"view_a",
+				"view_all_company"
+			],
+			[
+				"view_cr",
+				"view_current"
+			],
+			[
+				"ex",
+				"exclude"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"de",
+				"deleted"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"rese",
+				"resetNumber"
+			],
+			[
+				"ce",
+				"cell-border-right"
+			],
+			[
+				"ro",
+				"row_left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"doc",
+				"doc_type"
+			],
+			[
+				"da",
+				"DateTimeField"
+			],
+			[
+				"P",
+				"PROTECT"
+			],
+			[
+				"do",
+				"doc_type"
+			],
+			[
+				"fil",
+				"filterGet"
+			],
+			[
+				"rep",
+				"report"
+			],
+			[
+				"repo",
+				"report_inventory_kardex_titles"
+			],
+			[
+				"tot",
+				"totalProduct"
+			],
+			[
+				"w",
+				"warehouse"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"ren",
+				"ren"
+			],
+			[
+				"qu",
+				"quantityRowTotal"
+			],
+			[
+				"use",
+				"use_location"
+			],
+			[
+				"exi",
+				"exists_physically"
+			],
+			[
+				"ker",
+				"kardexFilters"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"filter",
+				"filterrow"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"get",
+				"get_current_company"
+			],
+			[
+				"comp",
+				"company"
+			],
+			[
+				"cur",
+				"current_company"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"SeedAdmon",
+				"seedadmon"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"_de",
+				"_deferred"
+			],
+			[
+				"_ex",
+				"_executeCallback"
+			],
+			[
+				"_suc",
+				"_successSave"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"call",
+				"_callback"
+			],
+			[
+				"sig",
+				"_signOut"
+			],
+			[
+				"ca",
+				"callFunction"
+			],
+			[
+				"_e",
+				"_executeCallback"
+			],
+			[
+				"_",
+				"_callback"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"id_form",
+				"id_form_username"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"is_",
+				"is_ajax"
+			],
+			[
+				"upda",
+				"update_person"
+			],
+			[
+				"upd",
+				"update_user"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/edgar/Dropbox/OtherProyects/feedPageFB/index.html",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/edgar/Dropbox/OtherProyects/feedPageFB/js/fbSDK.js",
+			"settings":
+			{
+				"buffer_size": 1195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/edgar/Dropbox/OtherProyects/feedPageFB/js/feed.js",
+			"settings":
+			{
+				"buffer_size": 1454,
+				"line_ending": "Unix",
+				"name": "feed.js"
+			}
+		},
+		{
+			"file": "/home/edgar/Descargas/extensionTest/popup.js",
+			"settings":
+			{
+				"buffer_size": 2611,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"Snippet: con",
+				"Snippet: Console Log"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"dev",
+				"Go to QuantifiedDev Dashboard"
+			],
+			[
+				"alignm",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"togg",
+				"View: Toggle Minimap"
+			],
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"wod",
+				"Word Wrap: Toggle"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"commi",
+				"Git: Quick Commit"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"Pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"destro",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origami",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"commit",
+				"Git: Commit history"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"histo",
+				"Git: Commit history"
+			],
+			[
+				"git: his",
+				"Git: Commit history"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"branc",
+				"Git: Change Branch"
+			],
+			[
+				"git: sta",
+				"Git: Status"
+			],
+			[
+				"git: st",
+				"Git: Status"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				":",
+				":e - Revert"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tog",
+				"Toggle Block Comment"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":ww",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"toggle",
+				"Toggle Block Comment"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"colla",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"WORD",
+				"Word Wrap: Toggle"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Snippet: 	",
+				"Snippet: Prototype"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package Control:",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 229.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/edgar/.config/sublime-text-2/Packages/User/consoleJavaScript.sublime-snippet",
+		"/home/edgar/Descargas/extensionTest/popup.html",
+		"/home/edgar/Descargas/extensionTest/manifest.json",
+		"/home/edgar/Descargas/popup.html",
+		"/home/edgar/Descargas/popup.js",
+		"/home/edgar/Dropbox/Testing/Handlebars/index.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/transaction.html",
+		"/home/edgar/Dropbox/Testing/Common/js/jquery.min.js",
+		"/home/edgar/Dropbox/Testing/Handlebars/js/handlebars.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/sign.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/core/models.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/core/forms.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/reports.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/noSave.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/login.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/companies.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/profile.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_doc_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/saveform.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/print.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/handlebars.js",
+		"/home/edgar/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/home/edgar/.config/sublime-text-2/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/requeriments.txt",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/urls.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_report_kardex.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_presentation_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_commercial_name_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_brand_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_germplasm_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_lot_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_seed_size_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_treatment_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_seed_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_product_measure_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_product_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_person_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_account_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_warehouse_form.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_report_seed.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/decorators.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/signals.py",
+		"/home/edgar/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/edgar/.config/sublime-text-2/Packages/User/trailing_spaces.sublime-settings",
+		"/home/edgar/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/base.html",
+		"/home/edgar/Dropbox/backup commits/core_currency.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/store_procedures/sp_cp_fix_warehouse.sql",
+		"/home/edgar/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/edgar/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+		"/home/edgar/Dropbox/Testing/zxcvbn/js/jquery.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/jquery.min.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_seed.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/functions/account_get_property.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/inventory/models.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/exceptions.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/testing_edgar.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/base_report.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/views/view_inventory_report_seed.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_lot.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/utils.py",
+		"/home/edgar/Dropbox/Cosas/jquery-1.11.1.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/email_template_change_username.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/email_template_login.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/email_template_new_user.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/email_template_company.html",
+		"/home/edgar/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/edgar/Dropbox/backup commits/SeedAdmonBackend.sublime-project",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/jquery.fixedTblHdrLftCol.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/bootstrapPatch.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/bootstrap.min.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templatetags/web_extras.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/error404.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/testingkardex.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/errorDeleteModel.html",
+		"/home/edgar/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/edgar/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/edgar/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/edgar/Dropbox/SeedAdmon/Wireframes/WF1/stylus/estilos.styl",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/settings.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/sensible.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/views.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/activate.html",
+		"/home/edgar/Descargas/countries.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/urls.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/cron.py",
+		"/E/Dropbox/Dropbox/SeedAdmon/SeedAdmon/core/forms.py",
+		"/E/Dropbox/Dropbox/SeedAdmon/SeedAdmon/web/utils.py",
+		"/E/Dropbox/Dropbox/SeedAdmon/SeedAdmon/web/views.py",
+		"/E/Dropbox/Dropbox/SeedAdmon/SeedAdmon/web/decorators.py",
+		"/E/Dropbox/Dropbox/SeedAdmon/SeedAdmon/seedadmon/wsgi.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/inventory/forms.py",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/triggers/inventory_seed_before_insert.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/triggers/inventory_seed_before_update.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/triggers/core_product_before_update.sql",
+		"/home/edgar/.config/sublime-text-2/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/home/edgar/.config/sublime-text-2/Packages/User/Colorsublime.sublime-settings",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/inventory/models.pyc",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/functions.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/views.sql",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/sql/store_procedure.sql",
+		"/home/edgar/Dropbox/SeedAdmon/Wireframes/WF1/js/assistant.js",
+		"/home/edgar/Dropbox/SeedAdmon/Wireframes/WF1/stylus/fonts.styl",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_brand.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/asistente.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_person.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_doc.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_product.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/error403.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/error500.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/error400.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/testing.html",
+		"/home/edgar/.config/sublime-text-2/Packages/User/forPython.sublime-snippet",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/base_css.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/static/js/table.js",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/index.html",
+		"/home/edgar/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_treatment_part_form.html",
+		"/home/edgar/.config/sublime-text-2/Packages/GitGutter/Default (Linux).sublime-keymap",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/seedadmon/templates/base_auth.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/profile_company.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/deleted.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_account.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/core_presentation.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_commercial_name.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_germplasm.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_seed_size.html",
+		"/home/edgar/Dropbox/SeedAdmon/SeedAdmon/web/templates/inventory_treatment.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"processData_",
+			"_processData",
+			"_processData(response);\n        };",
+			"seedadmon",
+			"feedPages.fn",
+			"input[type=",
+			"location.o",
+			"origin",
+			"getPreventDefault()",
+			"select[name=\"debit_warehouse\"",
+			"[name",
+			"[name=",
+			"select[name=debit_warehouse",
+			"print",
+			"boots",
+			"static/img",
+			"BASE_DIR",
+			"=",
+			":",
+			"request.user.profile.current_company",
+			"button",
+			"seedadmon._getStates",
+			"self.elems.state",
+			"item",
+			"key",
+			"seedadmon.fn.init",
+			"instanceof",
+			"function",
+			"=",
+			":",
+			"extend",
+			"Extend",
+			"extend",
+			"Extend",
+			"extend",
+			"Extend",
+			"extend",
+			"jQuery.access",
+			"_Seedadmon",
+			"_seedadmon",
+			"_seedadmonStatus.dequeue",
+			"seedadmonStatus.dequeue",
+			"_executeCallback",
+			"__seedadmonStatus",
+			"_seedadmon.",
+			"seedadmon.",
+			"seedadmones",
+			"_seedadmon",
+			"seedadmon.",
+			"on.",
+			"_seedadmon.",
+			"seedadmon",
+			"seedadmon.fn",
+			"seedadmon",
+			"class=\"cell-border-right\"",
+			"after",
+			",",
+			"`",
+			"filters",
+			"filterrow",
+			"totalProduct",
+			"flag",
+			"request.GET",
+			"get_column_titles",
+			"fn_report_inventory_seed",
+			"renTotal",
+			",",
+			"`",
+			"warehouse",
+			"germplasm",
+			"commercial_name",
+			"brand",
+			"product",
+			"k",
+			"presentation",
+			"germplasm",
+			"treatment",
+			"lot",
+			"brand",
+			"Request",
+			"treatment",
+			"brand",
+			"commercial_name",
+			"current_company",
+			"objects.",
+			"warehouse",
+			"_href",
+			"append",
+			"show",
+			"_callbacks",
+			"callbacks",
+			"each",
+			"fadeIn",
+			"Init",
+			"init",
+			"localhost",
+			"file",
+			"clone",
+			"cellspacing",
+			">\n",
+			"<",
+			"newUsername",
+			"get",
+			"len",
+			"text",
+			"fieldWrapper",
+			"recovery_pa",
+			"recover",
+			"request.POST['e",
+			"len(email)",
+			"clean_data",
+			"clean",
+			"__",
+			"height",
+			"fixedHeadHeight",
+			"corner.inner.c",
+			"createInner",
+			"80",
+			"100",
+			"25",
+			"padding-top",
+			"outer",
+			"$(this).outerHeight(true)",
+			" height: 25px;",
+			"height",
+			"height:",
+			"<tr>",
+			"</tr>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/edgar/Dropbox/OtherProyects/feedPageFB/index.html",
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Coffee_Dark_Roast.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/edgar/Dropbox/OtherProyects/feedPageFB/js/fbSDK.js",
+					"settings":
+					{
+						"buffer_size": 1195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Coffee_Dark_Roast.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/edgar/Dropbox/OtherProyects/feedPageFB/js/feed.js",
+					"settings":
+					{
+						"buffer_size": 1454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1022,
+								1070
+							]
+						],
+						"settings":
+						{
+							"auto_name": "feed.js",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Coffee_Dark_Roast.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/edgar/Descargas/extensionTest/popup.js",
+					"settings":
+					{
+						"buffer_size": 2611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1555,
+								1555
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Coffee_Dark_Roast.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.24934114202,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 71.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fb",
+				"js/fbSDK.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"save",
+				"web/static/js/saveform.js"
+			],
+			[
+				"nos",
+				"web/static/js/noSave.js"
+			],
+			[
+				"jqu",
+				"web/static/js/jquery.min.js"
+			],
+			[
+				"tra",
+				"web/templates/transaction.html"
+			],
+			[
+				"han",
+				"web/static/js/handlebars.js"
+			],
+			[
+				"doc",
+				"web/templates/core_doc_form.html"
+			],
+			[
+				"sig",
+				"web/templates/sign.html"
+			],
+			[
+				"login",
+				"web/static/js/login.js"
+			],
+			[
+				"prin",
+				"web/static/js/print.js"
+			],
+			[
+				"print",
+				"web/static/js/print.js"
+			],
+			[
+				"hand",
+				"web/static/js/handlebars.js"
+			],
+			[
+				"comp",
+				"web/templates/companies.html"
+			],
+			[
+				"doc_fo",
+				"web/templates/core_doc_form.html"
+			],
+			[
+				"pro",
+				"web/templates/profile.html"
+			],
+			[
+				"prese",
+				"web/templates/core_presentation_form.html"
+			],
+			[
+				"commer",
+				"web/templates/inventory_commercial_name_form.html"
+			],
+			[
+				"brand",
+				"web/templates/inventory_brand_form.html"
+			],
+			[
+				"germ",
+				"web/templates/inventory_germplasm_form.html"
+			],
+			[
+				"lot",
+				"web/templates/inventory_lot_form.html"
+			],
+			[
+				"seed_se",
+				"web/templates/inventory_seed_size_form.html"
+			],
+			[
+				"trea",
+				"web/templates/inventory_treatment_form.html"
+			],
+			[
+				"seed",
+				"web/templates/inventory_seed_form.html"
+			],
+			[
+				"mease",
+				"web/templates/core_product_measure_form.html"
+			],
+			[
+				"prod",
+				"web/templates/core_product_form.html"
+			],
+			[
+				"person",
+				"web/templates/core_person_form.html"
+			],
+			[
+				"ware",
+				"web/templates/core_warehouse_form.html"
+			],
+			[
+				"accou",
+				"web/templates/core_account_form.html"
+			],
+			[
+				"report",
+				"web/templates/inventory_report_seed.html"
+			],
+			[
+				"url",
+				"seedadmon/urls.py"
+			],
+			[
+				"decor",
+				"web/decorators.py"
+			],
+			[
+				"repo",
+				"web/reports.py"
+			],
+			[
+				"base",
+				"seedadmon/templates/base.html"
+			],
+			[
+				"doc_f",
+				"web/templates/core_doc_form.html"
+			],
+			[
+				"model",
+				"core/models.py"
+			],
+			[
+				"bran",
+				"web/templates/inventory_brand_form.html"
+			],
+			[
+				"deco",
+				"web/decorators.py"
+			],
+			[
+				"dec",
+				"web/decorators.py"
+			],
+			[
+				"sign",
+				"web/signals.py"
+			],
+			[
+				"compa",
+				"web/templates/companies.html"
+			],
+			[
+				"sp_cp_f",
+				"sql/store_procedures/sp_cp_fix_warehouse.sql"
+			],
+			[
+				"form",
+				"core/forms.py"
+			],
+			[
+				"profi",
+				"web/templates/profile.html"
+			],
+			[
+				"exce",
+				"web/exceptions.py"
+			],
+			[
+				"models",
+				"core/models.py"
+			],
+			[
+				"com",
+				"web/templates/companies.html"
+			],
+			[
+				"tes",
+				"web/templates/testing_edgar.html"
+			],
+			[
+				"base_re",
+				"seedadmon/templates/base_report.html"
+			],
+			[
+				"bas",
+				"seedadmon/templates/base.html"
+			],
+			[
+				"function",
+				"sql/functions/account_get_property.sql"
+			],
+			[
+				"view_inve",
+				"sql/views/view_inventory_report_seed.sql"
+			],
+			[
+				"view",
+				"sql/views/view_inventory_report_kardex.sql"
+			],
+			[
+				"base_",
+				"seedadmon/templates/base_report.html"
+			],
+			[
+				"repor",
+				"web/templates/inventory_report_seed.html"
+			],
+			[
+				"uti",
+				"web/utils.py"
+			],
+			[
+				"nosa",
+				"web/static/js/noSave.js"
+			],
+			[
+				"email",
+				"seedadmon/templates/email_template_login.html"
+			],
+			[
+				"email_tem",
+				"seedadmon/templates/email_template_new_user.html"
+			],
+			[
+				"boo",
+				"web/static/js/bootstrap.min.js"
+			],
+			[
+				"mo",
+				"core/models.py"
+			],
+			[
+				"sav",
+				"web/static/js/saveform.js"
+			],
+			[
+				"erro",
+				"web/templates/error404.html"
+			],
+			[
+				"tags",
+				"web/templatetags/web_extras.py"
+			],
+			[
+				"boos",
+				"web/static/js/bootstrap.min.js"
+			],
+			[
+				"jq",
+				"web/static/js/jquery.fixedTblHdrLftCol.js"
+			],
+			[
+				"karde",
+				"web/templates/inventory_report_kardex.html"
+			],
+			[
+				"test",
+				"web/templates/testing_edgar.html"
+			],
+			[
+				"urls",
+				"web/urls.py"
+			],
+			[
+				"error",
+				"web/templates/errorDeleteModel.html"
+			],
+			[
+				"setti",
+				"seedadmon/settings.py"
+			],
+			[
+				"sen",
+				"seedadmon/sensible.py"
+			],
+			[
+				"email_",
+				"seedadmon/templates/email_template_new_user.html"
+			],
+			[
+				"brand_f",
+				"web/templates/inventory_brand_form.html"
+			],
+			[
+				"exp",
+				"web/exceptions.py"
+			],
+			[
+				"acti",
+				"web/templates/activate.html"
+			],
+			[
+				"emai",
+				"seedadmon/templates/email_template_new_user.html"
+			],
+			[
+				"de",
+				"web/decorators.py"
+			],
+			[
+				"rep",
+				"web/reports.py"
+			],
+			[
+				"se",
+				"seedadmon/settings.py"
+			],
+			[
+				"u",
+				"seedadmon/urls.py"
+			],
+			[
+				"ut",
+				"web/utils.py"
+			],
+			[
+				"mode",
+				"core/models.py"
+			],
+			[
+				"ur",
+				"seedadmon/urls.py"
+			],
+			[
+				"",
+				"web/reports.py"
+			],
+			[
+				"seed_u",
+				"sql/triggers/inventory_seed_before_update.sql"
+			],
+			[
+				"seed_",
+				"sql/triggers/inventory_seed_before_insert.sql"
+			],
+			[
+				"product",
+				"sql/triggers/core_product_before_update.sql"
+			],
+			[
+				"web",
+				"web/signals.py"
+			],
+			[
+				"in",
+				"SeedAdmon/web/templates/index.html"
+			],
+			[
+				"ass",
+				"Wireframes/WF1/js/assistant.js"
+			],
+			[
+				"font",
+				"Wireframes/WF1/stylus/fonts.styl"
+			],
+			[
+				"seed_f",
+				"SeedAdmon/web/templates/inventory_seed_form.html"
+			],
+			[
+				"pers",
+				"SeedAdmon/web/templates/core_person.html"
+			],
+			[
+				"te",
+				"SeedAdmon/web/templates/testingkardex.html"
+			],
+			[
+				"table",
+				"SeedAdmon/web/static/js/table.js"
+			],
+			[
+				"err",
+				"SeedAdmon/web/templates/errorDeleteModel.html"
+			],
+			[
+				"seed.",
+				"SeedAdmon/web/templates/inventory_seed.html"
+			],
+			[
+				".styl",
+				"Wireframes/WF1/stylus/fonts.styl"
+			],
+			[
+				"estilos",
+				"Wireframes/WF1/stylus/estilos.styl"
+			],
+			[
+				"base_c",
+				"SeedAdmon/seedadmon/templates/base_css.html"
+			],
+			[
+				"asis",
+				"SeedAdmon/web/static/js/asistente.js"
+			],
+			[
+				"produ",
+				"SeedAdmon/web/templates/core_product_measure_form.html"
+			],
+			[
+				"treat",
+				"SeedAdmon/web/templates/inventory_treatment_part_form.html"
+			],
+			[
+				"produc",
+				"SeedAdmon/web/templates/core_product_measure_form.html"
+			],
+			[
+				"pres",
+				"SeedAdmon/web/templates/core_presentation_form.html"
+			],
+			[
+				"prodc",
+				"SeedAdmon/web/templates/core_product_form.html"
+			],
+			[
+				"er",
+				"SeedAdmon/web/templates/error404.html"
+			],
+			[
+				"me",
+				"SeedAdmon/web/templates/core_product_measure_form.html"
+			],
+			[
+				"tre",
+				"SeedAdmon/web/templates/inventory_treatment_part_form.html"
+			],
+			[
+				"brand_",
+				"SeedAdmon/web/templates/inventory_brand_form.html"
+			],
+			[
+				"seed_s",
+				"SeedAdmon/web/templates/inventory_seed_size_form.html"
+			],
+			[
+				"base_au",
+				"SeedAdmon/seedadmon/templates/base_auth.html"
+			],
+			[
+				"prof",
+				"SeedAdmon/web/templates/profile_company.html"
+			],
+			[
+				"do",
+				"SeedAdmon/web/templates/core_doc_form.html"
+			],
+			[
+				"ind",
+				"SeedAdmon/web/templates/index.html"
+			],
+			[
+				"ta",
+				"SeedAdmon/web/static/js/table.js"
+			],
+			[
+				"prd",
+				"SeedAdmon/web/templates/core_product.html"
+			],
+			[
+				"per",
+				"SeedAdmon/web/templates/core_person.html"
+			],
+			[
+				"tab",
+				"SeedAdmon/web/static/js/table.js"
+			],
+			[
+				"savef",
+				"SeedAdmon/web/static/js/saveform.js"
+			],
+			[
+				"a",
+				"SeedAdmon/web/templates/core_account.html"
+			],
+			[
+				"acco",
+				"SeedAdmon/web/templates/core_account_form.html"
+			],
+			[
+				"acc",
+				"SeedAdmon/web/templates/core_account.html"
+			],
+			[
+				"lot.",
+				"SeedAdmon/web/templates/inventory_lot.html"
+			],
+			[
+				"seed_si",
+				"SeedAdmon/web/templates/inventory_seed_size.html"
+			],
+			[
+				"ger",
+				"SeedAdmon/web/templates/inventory_germplasm_form.html"
+			],
+			[
+				"presen",
+				"SeedAdmon/web/templates/core_presentation_form.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true
+}
